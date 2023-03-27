@@ -1,4 +1,4 @@
-Assignment Description-
+ASSIGNMENT DESCRIPTION
 
 Intro
 In this assignment we will ask you to perform POS tagging using neural architectures
